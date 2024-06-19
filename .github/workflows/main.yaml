@@ -43,5 +43,3 @@ jobs:
         with:
           name: build-artifacts
           path: .pio/build/**/firmware.bin
-
-reatae and publish a release
